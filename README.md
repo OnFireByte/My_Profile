@@ -23,7 +23,7 @@ Hi 👋, I'm Pakin, a 19-near-20 years old college student, you can call me Byte
         -   Tailwind CSS
     -   Linux <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="20px" style="vertical-align: middle;"> (Basic)
 -   Non-Coding
-    -   Photoshop <img src=["](https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg)" width="20px">
+    -   Photoshop <img src="(https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg)" width="20px">
     -   Video Editing (Premiere Pro) <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" width="20px" style="vertical-align: middle;">
 
 ## Tech that I'm learning:
