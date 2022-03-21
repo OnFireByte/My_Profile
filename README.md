@@ -20,7 +20,7 @@ Hi 👋, I'm Pakin, you can call me Byte/Bright 0️⃣1️⃣! I'm interested i
 ## Tech that I'm learning:
 
 -   JS Related
-    -   React/Next.js <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+    -   React/Next.js <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="20px">
     -   Svelte/Sveltekit
     -   Nodejs
 -   Typescript
@@ -33,14 +33,15 @@ Hi 👋, I'm Pakin, you can call me Byte/Bright 0️⃣1️⃣! I'm interested i
     -   PostgreSQL
     -   MongoDB
     -   GraphQL
-- Networking
-- Data Science
-- Machine Learning
+-   Networking
+-   Data Science
+-   Machine Learning
 -   Programing Language
     -   Go
     -   Elixir (Maybe)
 
 ## My Hobby :
-- Custom Mechanical Keyboard ⌨️ (You should too!!!)
-- Linux Distro-Hopping / Ricing
-- Cooking 🍳
+
+-   Custom Mechanical Keyboard ⌨️ (You should too!!!)
+-   Linux Distro-Hopping / Ricing
+-   Cooking 🍳
