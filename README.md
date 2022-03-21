@@ -36,11 +36,12 @@ Hi 👋, I'm Pakin, a 19-near-20 years old student, you can call me Byte/Bright!
     -   GraphQL <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="20px" style="vertical-align: middle;">
 -   Back-End/BaaS (AWS/Firebase)
 -   Networking
--   Data Science
--   Machine Learning
 -   Programing Language
     -   Go <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="20px" style="vertical-align: middle;">
     -   Elixir <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" width="20px" style="vertical-align: middle;"> (Maybe)
+-   Might studay in far future...
+    -   Data Science
+    -   Machine Learning
 
 ## My Hobby :
 
