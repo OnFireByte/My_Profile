@@ -8,22 +8,22 @@ Hi 👋, I'm Pakin, a 19-near-20 years old student, you can call me Byte/Bright!
 ## Skills :
 
 -   Coding/Computer related
-    -   Javascript <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="20px"> (⭐)
-    -   Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20px">
-    -   HTML & CSS <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="20px">
+    -   Javascript <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="20px" style="vertical-align: middle;"> (⭐)
+    -   Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20px" style="vertical-align: middle;">
+    -   HTML & CSS <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="20px" style="vertical-align: middle;">
         -   Tailwind CSS
-    -   Linux <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="20px"> (Basic)
+    -   Linux <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="20px" style="vertical-align: middle;"> (Basic)
 -   Non-Coding
     -   Photoshop <img src=["](https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg)" width="20px">
-    -   Video Editing (Premiere Pro) <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" width="20px">
+    -   Video Editing (Premiere Pro) <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" width="20px" style="vertical-align: middle;">
 
 ## Tech that I'm learning:
 
 -   JS Related
-    -   React/Next.js <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="20px">
-    -   Svelte/Sveltekit <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" width="20px">
-    -   Nodejs <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="20px">
--   Typescript <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="20px">
+    -   React/Next.js <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="20px" style="vertical-align: middle;">
+    -   Svelte/Sveltekit <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" width="20px" style="vertical-align: middle;">
+    -   Nodejs <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="20px" style="vertical-align: middle;">
+-   Typescript <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="20px" style="vertical-align: middle;">
 -   Git
 -   So technically web development in general
 
@@ -31,16 +31,16 @@ Hi 👋, I'm Pakin, a 19-near-20 years old student, you can call me Byte/Bright!
 
 -   Functional Programing
 -   Database and API
-    -   PostgreSQL <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="20px">
-    -   MongoDB <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="20px">
-    -   GraphQL <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="20px">
+    -   PostgreSQL <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="20px" style="vertical-align: middle;">
+    -   MongoDB <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="20px" style="vertical-align: middle;">
+    -   GraphQL <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="20px" style="vertical-align: middle;">
 -   Back-End/BaaS (AWS/Firebase)
 -   Networking
 -   Data Science
 -   Machine Learning
 -   Programing Language
-    -   Go <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="20px">
-    -   Elixir <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" width="20px"> (Maybe)
+    -   Go <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="20px" style="vertical-align: middle;">
+    -   Elixir <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" width="20px" style="vertical-align: middle;"> (Maybe)
 
 ## My Hobby :
 
