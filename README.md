@@ -55,5 +55,6 @@ Hi 👋, I'm Pakin, a 19-near-20 years old college student, you can call me Byte
 ## My Hobby :
 
 -   Custom Mechanical Keyboard ⌨️ (You should too!!!)
+-   Indie Music Enjoyer
 -   Linux Distro-Hopping / Ricing
 -   Cooking 🍳
