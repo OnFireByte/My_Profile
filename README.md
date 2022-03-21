@@ -33,7 +33,7 @@ Hi 👋, I'm Pakin, a 19-near-20 years old college student, you can call me Byte
     -   Svelte/Sveltekit <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" width="20px" style="vertical-align: middle;">
     -   Nodejs <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="20px" style="vertical-align: middle;">
 -   Typescript <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="20px" style="vertical-align: middle;">
--   Git
+-   Git <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="20px" style="vertical-align: middle;">
 -   So technically web development in general
 
 ## Thing that I'm interested in / want to learn :
