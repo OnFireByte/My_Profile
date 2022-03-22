@@ -17,7 +17,7 @@ Hi 👋, I'm Pakin, a 19-near-20 years old college student, you can call me Byte
 ## Skills :
 
 -   Coding/Computer related
-    -   Javascript <img src="https://raw.github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="20px" style="vertical-align: middle;"> (⭐)
+    -   Javascript <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="20px" style="vertical-align: middle;"> (⭐)
     -   Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20px" style="vertical-align: middle;">
     -   HTML & CSS <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="20px" style="vertical-align: middle;">
         -   Tailwind CSS
