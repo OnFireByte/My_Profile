@@ -48,7 +48,7 @@ Hi 👋, I'm Pakin, a 19-near-20 years old college student, you can call me Byte
 -   Programing Language
     -   Go <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="20px" style="vertical-align: middle;">
     -   Elixir <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" width="20px" style="vertical-align: middle;"> (Maybe)
--   Might studay in far future...
+-   Might study in far future...
     -   Data Science
     -   Machine Learning
 
