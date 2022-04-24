@@ -33,6 +33,7 @@ Hi 👋, I'm Pakin, a 19-near-20 years old college student, you can call me Byte
     -   Svelte/Sveltekit <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" width="20px" style="vertical-align: middle;">
     -   Nodejs <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="20px" style="vertical-align: middle;">
 -   Typescript <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="20px" style="vertical-align: middle;">
+-   Go <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="20px" style="vertical-align: middle;">
 -   Git <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="20px" style="vertical-align: middle;">
 -   So technically web development in general
 
@@ -46,7 +47,6 @@ Hi 👋, I'm Pakin, a 19-near-20 years old college student, you can call me Byte
 -   Back-End/BaaS (AWS/Firebase)
 -   Networking
 -   Programing Language
-    -   Go <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="20px" style="vertical-align: middle;">
     -   Elixir <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" width="20px" style="vertical-align: middle;"> (Maybe)
 -   Might study in far future...
     -   Data Science
