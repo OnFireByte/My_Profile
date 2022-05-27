@@ -14,47 +14,36 @@ Hi 👋, I'm Pakin, a 19-near-20 years old college student, you can call me Byte
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=OnFireByte&show_icons=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnFireByte&layout=compact&theme=buefy&hide_border=true&hide=html,SCSS,CSS" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-## Skills :
+## Tech that i'm confident about:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
--   Coding/Computer related
-    -   Javascript <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="20px" style="vertical-align: middle;"> (⭐)
-    -   Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20px" style="vertical-align: middle;">
-    -   HTML & CSS <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="20px" style="vertical-align: middle;">
-        -   Tailwind CSS
-    -   Linux <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="20px" style="vertical-align: middle;"> (Basic)
--   Non-Coding
-    -   Photoshop <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="20px">
-    -   Video Editing (Premiere Pro) <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" width="20px" style="vertical-align: middle;">
 
-## Tech that I'm learning:
+## Tech that I'm using and learning:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
--   JS Related
-    -   React/Next.js <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="20px" style="vertical-align: middle;">
-    -   Svelte/Sveltekit <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" width="20px" style="vertical-align: middle;">
-    -   Nodejs <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="20px" style="vertical-align: middle;">
--   Typescript <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="20px" style="vertical-align: middle;">
--   Go <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="20px" style="vertical-align: middle;">
--   Git <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="20px" style="vertical-align: middle;">
--   So technically web development in general
+*So technically web development in general*
 
 ## Thing that I'm interested in / want to learn :
 
--   Functional Programing
--   Database and API
-    -   PostgreSQL <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="20px" style="vertical-align: middle;">
-    -   MongoDB <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="20px" style="vertical-align: middle;">
-    -   GraphQL <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="20px" style="vertical-align: middle;">
--   Back-End/BaaS (AWS/Firebase)
--   Networking
--   Programing Language
-    -   Elixir <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" width="20px" style="vertical-align: middle;"> (Maybe)
--   Might study in far future...
+
+- ### Database and API
+    
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+- ### Functional Programing
+![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
+- ### BaaS (AWS/Firebase)
+- ### Networking
+- ### Might study in far future...
     -   Data Science
     -   Machine Learning
-
-## My Hobby :
-
--   Custom Mechanical Keyboard ⌨️ (You should too!!!)
--   Indie Music Enjoyer
--   Linux Distro-Hopping / Ricing
--   Cooking 🍳
