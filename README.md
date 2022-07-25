@@ -5,7 +5,7 @@ Hi 👋, I'm Pakin, a 19-near-20 years old college student, you can call me Byte
 ## Education
 
 -   Suankularb Wittayalai School (2014-2021)
--   Engineer Degree (Hope that I got Com Eng major in 2nd year) in Chulalongkorn university (2021-2026)
+-   Computer Engineering Degree at Chulalongkorn university (2021-2026)
 
 ---
 
