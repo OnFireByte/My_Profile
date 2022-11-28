@@ -11,7 +11,7 @@ Hi 👋, I'm Pakin, a 20 years old college student, you can call me Byte/Bright!
 
 ## Github Stat
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=OnFireByte&show_icons=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnFireByte&layout=compact&theme=buefy&hide_border=true&hide=html,SCSS,CSS&exclude_repo=.dotfiles" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=OnFireByte&show_icons=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnFireByte&layout=compact&theme=buefy&hide_border=true&hide=html,SCSS,CSS,java&exclude_repo=.dotfiles" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## Tech that i'm confident about:
