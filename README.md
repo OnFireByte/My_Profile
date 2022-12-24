@@ -1,6 +1,6 @@
 # About Me!
 
-Hi 👋, I'm Pakin, a 20 years old college student, you can call me Byte/Bright! I'm interested in web development in general both Front-End and Back-End. I'm considered myself beginner in world of programming 👶
+Hi 👋, I'm Pakin, a 20 years old college student, you can call me Byte/Bright! I'm interested in web development in general both Front-End and Back-End (leaning into back-end rn). I'm considered myself beginner in world of software development 👶
 
 ## Education
 
