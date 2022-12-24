@@ -14,7 +14,7 @@ Hi 👋, I'm Pakin, a 20 years old college student, you can call me Byte/Bright!
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=OnFireByte&show_icons=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnFireByte&layout=compact&theme=buefy&hide_border=true&hide=html,SCSS,CSS,java&exclude_repo=.dotfiles" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-## Tech that i'm confident about:
+## Tech that i'm using and confident about:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -32,8 +32,6 @@ Hi 👋, I'm Pakin, a 20 years old college student, you can call me Byte/Bright!
 
 *So technically web development in general*
 
-
-## Thing that I'm interested in / want to learn :
-
-- ### Functional Programing
-![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
+## Tech that I have learned
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
