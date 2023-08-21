@@ -8,7 +8,7 @@ Hi 👋, I'm Pakin, a 20 years old college student, you can call me Byte/Bright!
 -   Computer Engineering Degree at Chulalongkorn university (2021-Present) (Sophomore)
 
 # Experience
-1.  Golang Backend Intership @ LINE MAN Wongnai (May - July 2023): working on lm-search team, developed and maintained BFF and Data Merger. 
+1.  Golang Backend Intership @ LINE MAN Wongnai (May - July 2023): working on lm-search team, doing stuff related to BFF and Data Merger. 
 ---
 
 ## Github Stat
