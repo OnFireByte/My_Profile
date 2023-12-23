@@ -2,6 +2,11 @@
 
 Hi 👋, I'm Pakin, a 20 years old college student, you can call me Byte/Bright! I'm interested in web development in general both Front-End and Back-End (leaning into back-end rn). I'm considered myself beginner in world of software development 👶
 
+### Cool blog by me (Thai)
+- [Monad มันเป็นแค่ pattern](https://pkpt.dev/blog/monad-101)
+- [Lambda Calculus: มีแค่ function ก็สร้างคอมพิวเตอร์ได้แล้ว](https://pkpt.dev/blog/lambda-calculus)
+- [ทำเว็บใหม่หมดด้วย Astro 3.0!](https://pkpt.dev/blog/astro-new-site)
+
 ## Education
 
 -   Suankularb Wittayalai School (2014-2021)
