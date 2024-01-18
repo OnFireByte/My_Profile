@@ -1,6 +1,8 @@
 # About Me!
 
-Hi 👋, I'm Pakin, a 20 years old college student, you can call me Byte/Bright! I'm interested in web development in general both Front-End and Back-End (leaning into back-end rn). I'm considered myself beginner in world of software development 👶
+- Your average web dev with a little bit of kink in math and hardware.
+- Go user, I literally build trpc-like package for Go and TS.
+- I love rust, never use it seriously doe.
 
 ### Cool blog by me (Thai)
 - [Monad มันเป็นแค่ pattern](https://pkpt.dev/blog/monad-101)
@@ -10,7 +12,7 @@ Hi 👋, I'm Pakin, a 20 years old college student, you can call me Byte/Bright!
 ## Education
 
 -   Suankularb Wittayalai School (2014-2021)
--   Computer Engineering Degree at Chulalongkorn university (2021-Present) (Junior)
+-   Computer Engineering Degree at Chulalongkorn university (2021-Present) (3rd year)
 
 # Experience
 1.  Golang Backend Intership @ LINE MAN Wongnai (May - July 2023): working on lm-search team, doing stuff related to BFF and Data Merger. 
