@@ -16,8 +16,8 @@
 
 # Experience
 1.  Golang Backend Intership @ LINE MAN Wongnai
-  a.  (May - July 2024): working on fleet team, doing stuff related to tech improvement, monitoring and tracing.
-  b.  (May - July 2023): working on lm-search team, doing stuff related to BFF and data merger.  
+    1.  (May - July 2024): working on fleet team, doing stuff related to tech improvement, monitoring and tracing.
+    2.  (May - July 2023): working on lm-search team, doing stuff related to BFF and data merger.  
 ---
 
 ## Github Stat
