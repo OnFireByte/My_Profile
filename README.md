@@ -11,11 +11,13 @@
 
 ## Education
 
--   Suankularb Wittayalai School (2014-2021)
--   Computer Engineering Degree at Chulalongkorn university (2021-Present) (3rd year)
+-  Computer Engineering Degree at Chulalongkorn university (2021-Present) (4rd year less gooo)
+-  Suankularb Wittayalai School (2014-2021)
 
 # Experience
-1.  Golang Backend Intership @ LINE MAN Wongnai (May - July 2023): working on lm-search team, doing stuff related to BFF and Data Merger. 
+1.  Golang Backend Intership @ LINE MAN Wongnai
+  1.  (May - July 2024): working on fleet team, doing stuff related to tech improvement, monitoring and tracing.
+  2.  (May - July 2023): working on lm-search team, doing stuff related to BFF and data merger.  
 ---
 
 ## Github Stat
